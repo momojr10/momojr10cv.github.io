@@ -336,8 +336,11 @@ section .heading h2
      
      filter:none;
      -webkit-filter:none; 
-     
  }
+.Burger_King
+{
+    height:250px;
+}
  /*RECOMMANDATIONS*/
  #recommandations
  {
